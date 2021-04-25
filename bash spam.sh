@@ -1,11 +1,10 @@
 Tools: 1.0 *_*
         ______________________________
-              Author: Mr.Tr3v!0n
-            Team: Black Coder Crush
-            Tools: Spam Sms Halodoc
-           Telegram: @config_geratis
+              Author: Mr.DOY
+            Team: Deer On Yes
+            Tools: Spam Sms Otp
         ______________________________
-         [26-04-21] | ©Copyright_2020
+         [26-04-21] | ©Copyright_2021
 
         ╔════════════════════════╗
         ║NO TARGET:
